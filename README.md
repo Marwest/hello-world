@@ -1,2 +1,2 @@
 # hello-world
-Mein Hallo Welt Projekt.
+My Hello World Repository.
